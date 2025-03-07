@@ -1,0 +1,22 @@
+# Unity generated folders
+Library/
+Temp/
+Logs/
+obj/
+UserSettings/
+
+# Build related
+Builds/
+*.apk
+*.aab
+*.unitypackage
+
+# Visual Studio / MonoDevelop generated
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
